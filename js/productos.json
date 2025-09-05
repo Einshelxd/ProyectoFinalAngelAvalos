@@ -1,0 +1,152 @@
+[
+    {
+        "id": "budines-01",
+        "titulo": "Budin de Chocolate",
+        "imagen": "../Img/Budines/BudinDeChocolate.avif",
+        "categoria": {
+            "nombre": "Budines",
+            "id": "budines"
+        },
+        "precio": 2400
+    },
+    {
+        "id": "budines-02",
+        "titulo": "Budin de zanahoria",
+        "imagen": "../img/Budines/Budin de Zanahoria.webp",
+        "categoria": {
+            "nombre": "Budines",
+            "id": "budines"
+        },
+        "precio": 2300
+    },
+    {
+        "id": "budines-03",
+        "titulo": "Budin de Mandarina",
+        "imagen": "../img/Budines/BudinDeMandarina.jpg",
+        "categoria": {
+            "nombre": "Budines",
+            "id": "budines"
+        },
+        "precio": 2200
+    },
+    {
+        "id": "budines-04",
+        "titulo": "Budin de Limon y Arandanos",
+        "imagen": "../img/Budines/BudinDeArandanosYLimon.jpg",
+        "categoria": {
+            "nombre": "Budines",
+            "id": "budines"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "budines-05",
+        "titulo": "Budin de Vainilla",
+        "imagen": "../img/Budines/BudinDeVainilla.webp",
+        "categoria": {
+            "nombre": "Budines",
+            "id": "budines"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "tortas-01",
+        "titulo": "Torta de chocolate y fresas",
+        "imagen": "../img/Tortas/Torta de chocolate y fresas.webp",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 23000
+    },
+    {
+        "id": "tortas-02",
+        "titulo": "Torta de Oreo",
+        "imagen": "../img/Tortas/Torta de Oreo.webp",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 24000
+    },
+    {
+        "id": "tortas-03",
+        "titulo": "Torta Fondant",
+        "imagen": "../img/Tortas/Torta Fondant.webp",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "tortas-04",
+        "titulo": "Torta tiramisu",
+        "imagen": "../img/Tortas/Torta tiramisu.webp",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "tortas-05",
+        "titulo": "Torta tres chocolates",
+        "imagen": "../img/Tortas/Torta tres chocolates.webp",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "panaderia-01",
+        "titulo": "Pan de campo",
+        "imagen": "../img/panaderia/PanDeCampo.jpg",
+        "categoria": {
+            "nombre": "Panadería",
+            "id": "panaderia"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "panaderia-02",
+        "titulo": "Pan de molde",
+        "imagen": "../img/panaderia/Pan de molde.jpeg",
+        "categoria": {
+            "nombre": "Panadería",
+            "id": "panaderia"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "panaderia-03",
+        "titulo": "Cremona",
+        "imagen": "../img/panaderia/Cremona.webp",
+        "categoria": {
+            "nombre": "Panadería",
+            "id": "panaderia"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "panaderia-04",
+        "titulo": "Pan integral de molde",
+        "imagen": "../img/panaderia/PanIntregralDeMolde.jpeg",
+        "categoria": {
+            "nombre": "Panadería",
+            "id": "panaderia"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "panaderia-05",
+        "titulo": "Libritos",
+        "imagen": "../img/panaderia/Libritos.jpg",
+        "categoria": {
+            "nombre": "Panadería",
+            "id": "panaderia"
+        },
+        "precio": 700
+    }
+]
